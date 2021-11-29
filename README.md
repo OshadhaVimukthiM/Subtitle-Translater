@@ -1,4 +1,9 @@
-# Subtitle-Translater
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png" alt="Translate Logo">
+</p>
+<h1 align="center">
+  <b>Subtitle-Translater</b>
+</h1>
 
 මෙම බොට් මගින් ඔබට කුමක් හෝ භාෂාවකින් ඇති උපසිරසියක් තවත් භාෂාවකට පරිවර්තනය කල හැක.
 
