@@ -45,6 +45,8 @@ python3 bot.py
 
 ### Create Firebase database
 
+[<img src="https://telegra.ph/file/fd8345e06a16e80f37f17.png" width="50%">](https://youtu.be/Z_NzX-Ryoy4)
+
 #### Folk the Repo and edit the creds.py with your own variables like below with your own values
 
 
