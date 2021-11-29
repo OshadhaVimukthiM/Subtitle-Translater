@@ -28,6 +28,8 @@ git clone https://github.com/OshadhaVimukthiM/Subtitle-Translater
 
 cd Subtitle-Translater
 
+apt install python3.8-venv
+
 python3 -m venv venv
 
 . ./venv/bin/activate
