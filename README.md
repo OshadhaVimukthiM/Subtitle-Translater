@@ -10,7 +10,7 @@ Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/OshadhaVimukthiM/Subtitle-Translater
 
-cd SubtitleTranslator-Bot
+cd Subtitle-Translater
 
 python3 -m venv venv
 
