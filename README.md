@@ -3,10 +3,16 @@
 ### Installation
 
 #### The Easy Way
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OshadhaVimukthiM/Subtitle-Translater)
 
+
+
 #### Deploy On VPS
-Simply clone the repository and run the main file:
+
+
+Simply Folk the repository and run the main file:
 ```sh
 git clone https://github.com/OshadhaVimukthiM/Subtitle-Translater
 
@@ -23,6 +29,7 @@ python3 bot.py
 ```
 
 #### Folk the Repo and edit the creds.py with your own variables like below with your own values
+
 
 ```python3
 class cred():
