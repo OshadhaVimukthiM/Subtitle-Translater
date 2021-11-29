@@ -5,7 +5,7 @@
 #### The Easy Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OshadhaVimukthiM/Subtitle-Translater)
 
-#### The Legacy Way
+#### Deploy On VPS
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/OshadhaVimukthiM/Subtitle-Translater
