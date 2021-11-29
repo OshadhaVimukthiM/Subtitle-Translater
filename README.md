@@ -2,7 +2,9 @@
   <b>Subtitle-Translater</b>
 </h1>
 
+<h3 align="center">
 මෙම බොට් මගින් ඔබට කුමක් හෝ භාෂාවකින් ඇති උපසිරසියක් තවත් භාෂාවකට පරිවර්තනය කල හැක.
+</h3>  
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png" alt="Translate Logo">
