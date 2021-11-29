@@ -6,11 +6,12 @@
 මෙම බොට් මගින් ඔබට කුමක් හෝ භාෂාවකින් ඇති උපසිරසියක් තවත් භාෂාවකට පරිවර්තනය කල හැක.
 </h3>  
 
-සිංහල භාෂාවෙන් ක්‍රියාත්මක වේ.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png" alt="Translate Logo">
 </p>
+
+සිංහල භාෂාවෙන් ක්‍රියාත්මක වේ
 
 ## Installation
 
@@ -50,7 +51,7 @@ python3 bot.py
 ```python3
 class cred():
     BOT_TOKEN = "your bot token from botfather"
-    API_ID = "your api id from my.telegram.org!"       
+    API_ID = "your api id from my.telegram.org"       
     API_HASH = "your api hash from my.telegram.org!"   
     DB_URL = "your database url from google firebase" 
     BOT_NAME = "your bot name"     
