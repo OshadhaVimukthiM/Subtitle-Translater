@@ -15,14 +15,14 @@
 
 ## Installation
 
-#### The Easy Way
+### The Easy Way
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OshadhaVimukthiM/Subtitle-Translater)
 
 
 
-#### Deploy On VPS
+### Deploy On VPS
 
 
 Simply Folk the repository and run the main file:
