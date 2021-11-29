@@ -1,6 +1,8 @@
 # Subtitle-Translater
 
-### Installation
+මෙම බොට් මගින් ඔබට කුමක් හෝ භාෂාවකින් ඇති උපසිරසියක් තවත් භාෂාවකට පරිවර්තනය කල හැක.
+
+## Installation
 
 #### The Easy Way
 
@@ -27,6 +29,8 @@ pip install -r requirements.txt
 python3 bot.py
 
 ```
+
+### Create Firebase database
 
 #### Folk the Repo and edit the creds.py with your own variables like below with your own values
 
